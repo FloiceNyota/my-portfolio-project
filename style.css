@@ -104,6 +104,19 @@ button:active{
     display: flex;
     margin: -7% auto 20px auto;
     position: relative;
-
-
+    justify-content: space-evenly;
+    align-items: center;
+}
+.about-container img{
+    height: 250px;
+}
+.about-text{
+    width: 550px;
+}
+about-text p{
+    color: black;
+    font-family: myriad pro;
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 0px;
 }
