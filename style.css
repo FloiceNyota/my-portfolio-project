@@ -71,9 +71,21 @@ nav ul li a{
     transform: translate(-13%,-20%);
 }
 .intro button{
-    width: 130px;
-    height: 42px;
+    width: 120px;
+    height: 30px;
     border-radius: 10px;
-    
+    font-family: calibri;
+    font-weight: bold;
+    font-size: 14px;
+    outline: navajowhite;
+    margin: 0px 10px;
 
+}
+.down-cv{
+    background-color: black;
+    color: white;
+    border: none;
+}
+button:active{
+    transform: scale(1.1);
 }
