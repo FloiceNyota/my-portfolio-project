@@ -73,6 +73,7 @@ nav ul li a{
 .intro button{
     width: 130px;
     height: 42px;
+    border-radius: 10px;
     
 
 }
