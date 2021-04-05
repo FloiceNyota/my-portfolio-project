@@ -17,6 +17,7 @@ section{
     background-image: ;
     background-repeat: no-repeat;
     background-size: cover;
+    
 
 }
 nav{
@@ -27,6 +28,7 @@ nav{
     background-color: navajowhite;
     box-shadow: navajowhite;
     padding: 0px 5%;
+    flex-wrap: wrap;
 }
 nav ul{
     display: flex;
@@ -61,4 +63,16 @@ nav ul li a{
 .intro p {
     line-height: 0px;
     margin: 45px 0px 25px;
+}
+.intro {
+    position: absolute;
+    left: 13%;
+    top: 42%;
+    transform: translate(-13%,-20%);
+}
+.intro button{
+    width: 130px;
+    height: 42px;
+    
+
 }
