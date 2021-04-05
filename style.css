@@ -89,3 +89,9 @@ nav ul li a{
 button:active{
     transform: scale(1.1);
 }
+.Floice{
+    height: 560px;
+    position: static;
+    bottom: 0px;
+    left: 70px;
+}
