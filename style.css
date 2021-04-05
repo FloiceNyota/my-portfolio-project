@@ -140,31 +140,31 @@ button:active{
     border: none;
     background-color: white;
 }
-.services{
+.projects{
     height: 600px;
     background-color: navajowhite;
     padding: 2% 10% 0px 10%;
 }
-.services-text p:nth-child(1){
+.projects-text p:nth-child(1){
     font-family: calibri;
     font-weight: bold;
     color: black;
     font-size: 25px;
     line-height: 0px;
 }
-.services-text p:nth-child(2){
+.projects-text p:nth-child(2){
     font-family: calibri;
     font-weight: bold;
     color: black;
     font-size: 17px;
     line-height: 5px;
 }
-.services-text p:nth-child(3){
+.projects-text p:nth-child(3){
     font-family: calibri;
     color: black;
 
 }
-.services-text{
+.projects-text{
     width: 500px;
     margin:50px 0px ;
 }
