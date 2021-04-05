@@ -113,10 +113,16 @@ button:active{
 .about-text{
     width: 550px;
 }
-about-text p{
+.about-text p:nth-child(1){
     color: black;
     font-family: myriad pro;
     font-weight: bold;
-    font-size: 23px;
+    font-size: 25px;
     line-height: 0px;
+}
+.about-text p:nth-child(2){
+    color: black;
+    font-size: 17px;
+    font-family: myriad pro;
+    font-weight: bold;
 }
