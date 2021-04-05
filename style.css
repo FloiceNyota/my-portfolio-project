@@ -170,7 +170,27 @@ button:active{
 }
 .box-1,.box-2,.box-3{
     width: 300px;
+    height: 320px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.3);
     
+}
+.box-container{
+    display: flex;
+    justify-content: space-between;
+}
+.box-1{
+    background-image: url(./images/favband.jpeg);
+
+}
+.box-2{
+    background-image: url(./images/anitaskit.png);
+
+}
+.box-3{
+    background-image: url(./images/dairybiz.png);
+
 }
 
 
