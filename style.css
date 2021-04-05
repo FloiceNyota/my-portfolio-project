@@ -22,4 +22,12 @@ section{
 nav{
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background-color: navajowhite;
+    box-shadow: navajowhite;
+    padding: 5px;
+}
+nav ul{
+    display: flex;
 }
