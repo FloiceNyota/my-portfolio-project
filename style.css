@@ -134,5 +134,11 @@ button:active{
     font-size: 16px;
 }
 .about-text button{
-    width: ;
+    width: 120px;
+    height: 40px;
+    color: black;
+    outline: none;
+    border: none;
+    background-color: white;
 }
+
