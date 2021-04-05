@@ -125,4 +125,14 @@ button:active{
     font-size: 17px;
     font-family: myriad pro;
     font-weight: bold;
+    line-height: 5px;
+}
+.about-text p:nth-child(3),
+.about-text p:nth-child(4){
+    color: black;
+    font-family: calibri;
+    font-size: 16px;
+}
+.about-text button{
+    width: ;
 }
