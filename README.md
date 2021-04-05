@@ -1,8 +1,8 @@
-# Dairybusiness
+# My-Project
 ## Author
 Floice Nyota
 ## Description
-updates on my dairy farm's produce and income
+A portfolio
 ### Prerequisites
 You need to have git installed
 You can install it with the following command in your terminal
@@ -16,7 +16,6 @@ To access this project on your local files, you can clone it using these steps
 ### Technologies Used
 1. HTML
 1. CSS
-1. JavaScript
 1. Git
 ### Live Site
 View [live](/)
@@ -39,4 +38,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.# 
+SOFTWARE.#my-project
