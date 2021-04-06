@@ -220,7 +220,7 @@ button:active{
 .box-1 p:nth-child(2),
 .box-2 p:nth-child(2),
 .box-3 p:nth-child(2){
-    color: black;
+    color: white;
     font-family: calibri;
     font-size: 23px;
     line-height: 0px;
@@ -240,10 +240,11 @@ button:active{
 .box-3 button{
     width: 100px;
     height: 30px;
-    background-color: white;
+    background-color: black;
     border: none;
     outline: none;
     border-radius: 5px;
+    color: white;
 
 }
 .contact-me{
@@ -279,6 +280,7 @@ button:active{
      display: flex;
      flex-direction: column;
      align-items: center;
+     justify-content: center;
      position: relative;
 }
 .footer p{
@@ -298,9 +300,7 @@ footer p:nth-child(2){
     text-align: center;
 
 }
-.social-icons {
-    display: flex;
-}
+
 .social-icons a{
     width: 40px;
     height: 40px;
@@ -312,18 +312,17 @@ footer p:nth-child(2){
     border-radius: 50%;
 
 }
-
-.copyright {
-    color: black;
-    font-size: 15px;
-    position: absolute;
-    left: 50%;
-    bottom: 10px;
-    transform: translateX(-50%);
-
+.social-icons {
+    display: flex;
 }
-
-
+.social-icons i{
+    color: black;
+}
+.social-icons a:hover{
+    background-color: black;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+    transition: all ease 0.5s;
+}
 
 
 
