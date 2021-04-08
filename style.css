@@ -111,6 +111,7 @@ button:active{
 }
 .about-container img{
     height: 250px;
+    
 }
 .about-text{
     width: 550px;
@@ -142,6 +143,12 @@ button:active{
     outline: none;
     border: none;
     background-color: white;
+}
+.read-more {
+    background-color: black;
+    color: white;
+    border: none;
+    
 }
 .projects{
     height: 600px;
